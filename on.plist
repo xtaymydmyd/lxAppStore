@@ -21,7 +21,7 @@
             <string>software-package</string>	
             <key>url</key>
             <!--ipa下载地址-->					
-            <string>http://jy-app.jieyundata.com:18027/group1/M00/00/29/wKhkP1yz2reAeYQhAMCyquFDrgw708.ipa</string>
+            <string>https://raw.githubusercontent.com/xtaymydmyd/lxAppStore/master//%E6%9D%B0%E4%BD%9C.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
