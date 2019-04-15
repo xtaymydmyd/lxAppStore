@@ -14,14 +14,14 @@
             <true/>	
             <key>url</key>
             <!--应用图标-->			       
-            <string>http://fdfs.lechat.io:8080/group1/M00/00/24/wKhkP1xO1T-Adu93AAAFc40j9VM682.jpg</string>
+            <string>http://jy-app.jieyundata.com:18027/group1/M00/00/29/wKhkP1y0HsKAXqcZAAA-5uLKKm0470.jpg</string>
           </dict>	
           <dict>
             <key>kind</key>
             <string>software-package</string>	
             <key>url</key>
             <!--ipa下载地址-->					
-            <string>https://raw.githubusercontent.com/xtaymydmyd/lxAppStore/master//%E6%9D%B0%E4%BD%9C.ipa</string>
+            <string>http://jy-app.jieyundata.com:18027/group1/M00/00/29/wKhkP1yz2reAeYQhAMCyquFDrgw708.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
