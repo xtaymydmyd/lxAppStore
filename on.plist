@@ -14,31 +14,31 @@
             <true/>	
             <key>url</key>
             <!--应用图标-->			       
-            <string>http://jy-app.jieyundata.com:18027/group1/M00/00/29/wKhkP1y0HsKAXqcZAAA-5uLKKm0470.jpg</string>
+            <string>https://recruit-user.oss-cn-beijing.aliyuncs.com/ios/icon-1024%E7%9A%84%E5%89%AF%E6%9C%AC.png</string>
           </dict>	
           <dict>
             <key>kind</key>
             <string>software-package</string>	
             <key>url</key>
             <!--ipa下载地址-->					
-            <string>https://raw.githubusercontent.com/xtaymydmyd/lxAppStore/master//%E4%B8%AB%E5%B8%AE.ipa</string>
+            <string>https://recruit-user.oss-cn-beijing.aliyuncs.com/ios/%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%8D%97%E4%BA%AC%E5%AD%A6%E9%99%A2.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
           <!--应用包名-->				
-          <string>com.jieyun.outernet</string>
+          <string>com.lordar.lechat.ucas</string>
           <key>bundle-version</key>
           <!--应用版本-->				
-          <string>1.0.2</string>
+          <string>0.0.2</string>
           <key>kind</key>	
           <string>software</string>
           <key>subtitle</key>	
           <string>Apple</string>
           <key>title</key>
           <!--应用名称-->	
-          <string>杰作</string>
+          <string>国科大南京学院</string>
         </dict>
       </dict>
     </array>
